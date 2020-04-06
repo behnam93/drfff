@@ -26,7 +26,7 @@ SECRET_KEY = 'lstwr4*f50m*palb!b)+wpmb_mt9)$&j8+(b@en=fy)+plnpg('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
